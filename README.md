@@ -1,93 +1,123 @@
-🧮 iPhone Calculator Clone
+# 🧮 iPhone Calculator Clone
 
-A modern iPhone-style Calculator Web App built using HTML, CSS, and JavaScript.
-It mimics the clean UI and smooth behavior of a real smartphone calculator.
+![GitHub repo size](https://img.shields.io/github/repo-size/pappuravidas47/IPhone-Calculator-Clone)
+![GitHub stars](https://img.shields.io/github/stars/pappuravidas47/IPhone-Calculator-Clone?style=social)
+![GitHub forks](https://img.shields.io/github/forks/pappuravidas47/IPhone-Calculator-Clone?style=social)
 
----
+A sleek **iPhone-style Calculator Web Application** built using **HTML, CSS & JavaScript**.
+This project recreates the clean UI, smooth behavior and real functionality of a smartphone calculator directly in the browser.
 
-🚀 Live Preview
-
-https://pappuravidas47.github.io/IPhone-Calculator-Clone/
-
----
-
-📸 Screenshot
-
-<img width="1920" height="1080" alt="Screenshot 2026-03-03 000054" src="https://github.com/user-attachments/assets/e296f455-e1ae-4543-a5c6-da6a98286298" />
+> Simple UI • Real calculator logic • Fully responsive design
 
 ---
 
-🚀 Features
+## 🚀 Live Demo
 
-- Addition, Subtraction, Multiplication, Division
-- Percentage calculation (%)
-- Positive / Negative toggle (+/-)
-- Decimal support
-- Error handling
-- Fully responsive design (Mobile + Desktop)
+🔗 https://pappuravidas47.github.io/IPhone-Calculator-Clone/
 
 ---
 
-🛠️ Built With
+## 📸 Preview
 
-- HTML5
-- CSS3 (Grid & Flexbox)
-- JavaScript (Vanilla JS)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e296f455-e1ae-4543-a5c6-da6a98286298" width="800">
+</p>
 
 ---
 
-📂 Folder Structure
+## ✨ Features
 
-calculator/
+* Addition, Subtraction, Multiplication, Division
+* Percentage calculation (%)
+* Positive / Negative toggle (+/-)
+* Decimal support
+* Error handling (invalid input & divide by zero)
+* Real-time output display
+* Fully responsive (Mobile + Desktop)
+* Smooth button interaction
+
+---
+
+## 🧠 How It Works
+
+The calculator stores button inputs as a mathematical expression string.
+
+Example:
+
+```
+12 + 7 * 3 - 5
+```
+
+JavaScript evaluates the expression and instantly displays the result on the screen.
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology              | Usage                |
+| ----------------------- | -------------------- |
+| HTML5                   | Structure            |
+| CSS3                    | Styling              |
+| Flexbox & Grid          | Layout               |
+| JavaScript (Vanilla JS) | Logic & Calculations |
+
+---
+
+## 📂 Project Structure
+
+```
+iPhone-Calculator-Clone/
 │── index.html
 │── style.css
 │── script.js
 │── README.md
+```
 
 ---
 
-▶️ How to Run
+## ▶️ How to Run Locally
 
-1. Download or Clone repository
+### 1. Clone Repository
 
-git clone https://github.com/your-username/iPhone-Calculator-Clone.git
+```
+git clone https://github.com/pappuravidas47/IPhone-Calculator-Clone.git
+```
 
-2. Open folder
+### 2. Open Folder
 
-3. Run "index.html"
+```
+cd IPhone-Calculator-Clone
+```
 
-Your calculator will open in browser 🎉
+### 3. Run Project
 
----
-
-💡 How it Works
-
-The calculator stores user input as a mathematical expression string.
-JavaScript evaluates the expression and instantly displays the result.
-
----
-
-✨ UI Design
-
-- Dark theme interface
-- Circular buttons
-- Orange operator keys
-- Large responsive display
+Open **index.html** in your browser 🎉
 
 ---
 
-👨‍💻 Credits
+## 🎨 UI Design
 
-Made with ❤️ by Pappu Kumar Ravidas
-
-B.Tech CSE Student | Future Software Developer
+* Dark theme interface
+* Circular buttons like iPhone
+* Orange operator keys
+* Large responsive display
+* Mobile + Desktop compatible
 
 ---
 
-📜 License
+## 👨‍💻 Credits
+
+**Made with ❤️ by Pappu Kumar Ravidas**
+
+🎓 B.Tech CSE Student
+💻 Future Software Developer | Frontend Enthusiast
+
+---
+
+## 📜 License
 
 This project is open-source and free for learning and practice.
 
 ---
 
-⭐ If you like this project, give it a star on GitHub!
+If you like this project, please give it a ⭐ on GitHub — it motivates a lot!
