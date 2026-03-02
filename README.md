@@ -5,11 +5,15 @@ It mimics the clean UI and smooth behavior of a real smartphone calculator.
 
 ---
 
-📸 Project Preview
+🚀 Live Preview
 
-«(Screenshot uploaded in this repository)»
+https://pappuravidas47.github.io/IPhone-Calculator-Clone/
 
-"Calculator Screenshot" (screenshot.jpg)
+---
+
+📸 Screenshot
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-03 000054" src="https://github.com/user-attachments/assets/e296f455-e1ae-4543-a5c6-da6a98286298" />
 
 ---
 
